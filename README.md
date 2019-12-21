@@ -33,6 +33,10 @@ For this project, I scraped all song lyrics for all entries of the Billboard Hot
 
 The datasets containing the analysis results and scraped lyrics could not be uploaded to github due to size limits. It can be viewed and downloaded here: https://data.world/szubair/lyric-sentiment-ananlysis
 
+## Author
+
+Salim Zubair
+
 
 
 
