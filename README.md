@@ -6,7 +6,7 @@ For this project, I scraped all song lyrics for all entries of the Billboard Hot
 
 1. On average, the sentiment of lyrics on the BillbOard Hot 100 tend to be neutral.
 2. Lyric Setiment in 2019 is about 4 times as negative as lyric sentiment in the 1960s.
-![Lyric Sentiment over Time Plot] (https://github.com/salimzubair/lyric-sentiment/blob/master/plot.png?raw=true)
+![Lyric Sentiment over Time Plot](https://github.com/salimzubair/lyric-sentiment/blob/master/plot.png)
 3. Lyric sentiment, on average, has gotten 1.2% more negative annually between 1958 and 2019.
 4. Top keywords for lyrics in 1958 include:
     a. "like"
@@ -27,7 +27,7 @@ For this project, I scraped all song lyrics for all entries of the Billboard Hot
 
 #Data
 
-The datasets containing the analysis results and scraped lyrics could not be uploaded to github due to size limits. It can be viewed and downloaded here: (https://data.world/szubair/lyric-sentiment-ananlysis) 
+The datasets containing the analysis results and scraped lyrics could not be uploaded to github due to size limits. It can be viewed and downloaded here: https://data.world/szubair/lyric-sentiment-ananlysis
 
 
 
