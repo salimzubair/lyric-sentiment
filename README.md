@@ -10,7 +10,7 @@ For this project, I scraped all song lyrics for all entries of the Billboard Hot
 
 ![Lyric Sentiment over Time Plot](https://github.com/salimzubair/lyric-sentiment/blob/master/plot.png)
 
-3. Lyric sentiment, on average, has gotten 1.2% more negative annually between 1958 and 2019.
+3. Lyric sentiment, on average, has gotten 1.3% more negative annually between 1958 and 2019.
 
 4. Top keywords for lyrics in 1958 include:
     1. "like"
